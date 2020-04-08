@@ -1,0 +1,6 @@
+1st Bug : Trex doesn't stand on the ground
+2nd Bug : Trex doesn't jump when space is pressed
+3rd Bug : The clouds and obstacles keep moving even after the game has ended
+4th Bug : Reset button does not work
+
+I think I fixed all the bugs.
